@@ -11,7 +11,7 @@
         },
         {
             "url" : "https://trello.com/b/Zch0NHUE/work-in-progress",
-            "duration" : 40,
+            "duration" : 10,
             "tabReloadIntervalSeconds": 120
         },
         {
@@ -21,7 +21,7 @@
         },
         {
             "url" : "https://harvard.service-now.com/sys_report_template.do?jvar_report_id=06e58fcedb907bc47768dc95ca96199a#",
-            "duration" : 40,
+            "duration" : 10,
             "tabReloadIntervalSeconds": 120
         },
         {
@@ -31,7 +31,7 @@
         },
         {
             "url" : "https://jira.huit.harvard.edu/secure/RapidBoard.jspa?rapidView=710",
-            "duration" : 40,
+            "duration" : 10,
             "tabReloadIntervalSeconds": 120
         },
         {
@@ -41,7 +41,7 @@
         },
         {
             "url" : "https://harvard.service-now.com/sys_report_template.do?jvar_report_id=1fe69837a49bc10031f79b67d483ffd8",
-            "duration" : 40,
+            "duration" : 10,
             "tabReloadIntervalSeconds": 120
         },      
         {
