@@ -41,7 +41,7 @@
         },
         {
             "url" : "https://harvard.service-now.com/sys_report_template.do?jvar_report_id=1fe69837a49bc10031f79b67d483ffd8",
-            "duration" : 10,
+            "duration" : 20,
             "tabReloadIntervalSeconds": 120
         },      
         {
