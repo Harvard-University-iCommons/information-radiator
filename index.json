@@ -40,7 +40,7 @@
             "tabReloadIntervalSeconds": 20
         },
         {
-            "url" : "        https://harvard.service-now.com/sys_report_template.do?jvar_report_id=1fe69837a49bc10031f79b67d483ffd8",
+            "url" : "https://qlik.huit.harvard.edu/QvAJAXZfc/opendoc.htm?document=userdocshuit%5Chuit%20ppm%20dashboards.qvw&host=QVS%40uiswappsqlik002",
             "duration" : 40,
             "tabReloadIntervalSeconds": 120
         },      
