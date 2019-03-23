@@ -48,7 +48,12 @@
             "url" : "https://41cq3mn277.execute-api.us-east-1.amazonaws.com/default/at-random-photo",
             "duration" : 5,
             "tabReloadIntervalSeconds": 20
-        }
+        },
+        {
+            "url" : "https://s3.amazonaws.com/at-information-radiator/word/index.html",
+            "duration" : 30,
+            "tabReloadIntervalSeconds": 120
+        },
         
     ]
 }
