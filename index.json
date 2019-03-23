@@ -10,6 +10,11 @@
             "tabReloadIntervalSeconds": 300
         },
         {
+            "url" : "https://s3.amazonaws.com/at-information-radiator/history/index.html",
+            "duration" : 30,
+            "tabReloadIntervalSeconds": 120
+        },        
+        {
             "url" : "https://trello.com/b/Zch0NHUE/work-in-progress",
             "duration" : 10,
             "tabReloadIntervalSeconds": 120
