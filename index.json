@@ -10,19 +10,24 @@
             "tabReloadIntervalSeconds": 300
         },
         {
+            "url" : "https://darksky.net/forecast/42.3746,-71.119/us12/en",
+            "duration" : 15,
+            "tabReloadIntervalSeconds": 300
+        },        
+        {
             "url" : "https://s3.amazonaws.com/at-information-radiator/history/index.html",
             "duration" : 30,
-            "tabReloadIntervalSeconds": 120
+            "tabReloadIntervalSeconds": 600
         },        
         {
             "url" : "https://s3.amazonaws.com/at-information-radiator/foodtrucks/index.html",
             "duration" : 15,
-            "tabReloadIntervalSeconds": 120
+            "tabReloadIntervalSeconds": 600
         },        
         {
             "url" : "https://trello.com/b/Zch0NHUE/work-in-progress",
             "duration" : 10,
-            "tabReloadIntervalSeconds": 120
+            "tabReloadIntervalSeconds": 600
         },
         {
             "url" : "https://41cq3mn277.execute-api.us-east-1.amazonaws.com/default/at-random-photo",
@@ -32,7 +37,7 @@
         {
             "url" : "https://harvard.service-now.com/sys_report_template.do?jvar_report_id=06e58fcedb907bc47768dc95ca96199a#",
             "duration" : 10,
-            "tabReloadIntervalSeconds": 120
+            "tabReloadIntervalSeconds": 600
         },
         {
             "url" : "https://41cq3mn277.execute-api.us-east-1.amazonaws.com/default/at-random-photo",
@@ -42,7 +47,7 @@
         {
             "url" : "https://jira.huit.harvard.edu/secure/RapidBoard.jspa?rapidView=710",
             "duration" : 10,
-            "tabReloadIntervalSeconds": 120
+            "tabReloadIntervalSeconds": 600
         },
         {
             "url" : "https://41cq3mn277.execute-api.us-east-1.amazonaws.com/default/at-random-photo",
@@ -52,7 +57,7 @@
         {
             "url" : "https://harvard.service-now.com/sys_report_template.do?jvar_report_id=1fe69837a49bc10031f79b67d483ffd8",
             "duration" : 20,
-            "tabReloadIntervalSeconds": 120
+            "tabReloadIntervalSeconds": 600
         },      
         {
             "url" : "https://41cq3mn277.execute-api.us-east-1.amazonaws.com/default/at-random-photo",
@@ -62,7 +67,7 @@
         {
             "url" : "https://s3.amazonaws.com/at-information-radiator/word/index.html",
             "duration" : 30,
-            "tabReloadIntervalSeconds": 120
+            "tabReloadIntervalSeconds": 600
         }        
     ]
 }
