@@ -55,7 +55,7 @@
             "tabReloadIntervalSeconds": 20
         },
         {
-            "url" : "https://harvardtest.service-now.com/sys_report_display.do?sysparm_report_id=1fe69837a49bc10031f79b67d483ffd8",
+            "url" : "https://harvard.service-now.com/sys_report_display.do?sysparm_report_id=1fe69837a49bc10031f79b67d483ffd8",
             "duration" : 20,
             "tabReloadIntervalSeconds": 600
         },      
