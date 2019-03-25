@@ -35,7 +35,7 @@
             "tabReloadIntervalSeconds": 20
         },
         {
-            "url" : "https://harvard.service-now.com/sys_report_template.do?jvar_report_id=06e58fcedb907bc47768dc95ca96199a#",
+            "url" : "https://harvard.service-now.com/sys_report_template.do?jvar_report_id=5496ec10dbec838083a2f3f7bf961974",
             "duration" : 10,
             "tabReloadIntervalSeconds": 600
         },
