@@ -20,7 +20,7 @@
             "tabReloadIntervalSeconds": 600
         },        
         {
-            "url" : "https://s3.amazonaws.com/at-information-radiator/foodtrucks/index.html",
+            "url" : "https://s3.amazonaws.com/at-information-radiator/trucks/trucks.html",
             "duration" : 15,
             "tabReloadIntervalSeconds": 600
         },        
